@@ -114,6 +114,10 @@ img {
     border-top: 3px solid var(--primary-blue);
 }
 
+.attribution {
+    margin: 50px;
+}
+
 @media (max-width: 768px) {
     .second-section {
         grid-template-columns: 1fr;
